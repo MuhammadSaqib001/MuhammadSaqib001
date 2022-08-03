@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadSaqib001
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science , Machine Laerning and Deep Learning
-- 💞️ I’m looking to collaborate on research projects
+- 👀 I’m interested in Computer Vision and Data Science
+- 🌱 I’m currently learning Data Science , Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on Research Projects
 - 📫 You can reach me on LinkedIn with profile URL as https://www.linkedin.com/in/muhammad-saqib-000610208/
 
 <!---
