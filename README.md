@@ -1,6 +1,6 @@
 # Muhammad Saqib
 
-Hi there, I'm Muhammad Saqib! A passionate AI Engineer with a focus on Data Science, AI, and Machine Learning.
+Hi there, I'm Muhammad Saqib! A passionate AI Engineer with a focus on Data Science, AI, Machine Learning and Deep learning (especially Computer Vision) .
 
 ## 👋 About Me
 
@@ -19,6 +19,7 @@ At CureMD, I'm not just an AI Engineer; I'm also an enthusiastic advocate of inn
 I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI.
 
 ![Muhammad Saqib Resume](https://github.com/MuhammadSaqib001/MuhammadSaqib001/blob/main/resume.png)
+
 ## 💞️ Let's Connect!
 
 I love connecting with like-minded individuals and professionals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-000610208/) , where I share insights, updates, and engage in stimulating discussions.
