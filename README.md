@@ -19,7 +19,7 @@ My interests lie in the captivating domains of Data Science, AI, and ML, with a 
 ## 🌱 Collaboration and Growth
 
 I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI.
-I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile]([https://medium.com/@saqibbuzdar](https://medium.com/@msaqib-genai)) .
+I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile]([https://medium.com/@saqibbuzdar](https://medium.com/@msaqib-genai) .
 
 ## 💞️ Let's Connect!
 
