@@ -20,7 +20,6 @@ My interests lie in the captivating domains of Data Science, AI, and ML, with a 
 
 I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI.
 I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile](https://medium.com/@saqibbuzdar) .
-![Muhammad Saqib Resume](https://github.com/MuhammadSaqib001/MuhammadSaqib001/blob/main/resume.png)
 
 ## 💞️ Let's Connect!
 
@@ -28,6 +27,8 @@ I love connecting with like-minded individuals and professionals. Feel free to r
 
 Let's shape the future of AI and ML together!
 
+![Muhammad Saqib Resume](https://github.com/MuhammadSaqib001/MuhammadSaqib001/blob/main/CV-1.png)
+![Muhammad Saqib Resume](https://github.com/MuhammadSaqib001/MuhammadSaqib001/blob/main/CV-2.png)
 
 <!---
 MuhammadSaqib001/MuhammadSaqib001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
