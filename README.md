@@ -12,14 +12,14 @@ My interests lie in the captivating domains of Data Science, AI, and ML, with a 
 
 ## 👀 Expertise
 
-1. Building applications around LLMs [LLM Agents, RAG and all that stuff] using LangChain
-2. Python based applications
-3. Web Applications using Streamlit ,and Gradio .
+1. Building generative AI Application like chatbots, automation agents and etc [LangChain].
+2. Python based backend i.e., REST API and suff [FLASK, Django and FAST API].
+3. Python based Web Applications [Streamlit, and Gradio].
 
 ## 🌱 Collaboration and Growth
 
 I'm actively seeking opportunities to collaborate on groundbreaking research projects, especially those involving NLP. I believe that collaboration is the key to unlocking novel solutions and driving progress in the field of AI.
-I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile]([https://medium.com/@saqibbuzdar](https://medium.com/@msaqib-genai) .
+I actively write stuff at Medium . Feel to checkout articles on my [Medium Profile]([https://medium.com/@saqibbuzdar](https://medium.com/@msaqib-genai).
 
 ## 💞️ Let's Connect!
 
