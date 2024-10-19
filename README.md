@@ -1,18 +1,20 @@
-# Muhammad Saqib [AI Engineer / Python Developer]
+# Muhammad Saqib [Machine Learning Engineer]
 
-Hi there, I'm Muhammad Saqib! A passionate AI Engineer with a focus on Data Science, AI, Machine Learning and Deep learning (especially Computer Vision) .
+Hi there, I'm Muhammad Saqib! A passionate ML Engineer with a focus on Generative AI, LLMs,and Deep learning (especially Computer Vision) .
 
 ## 👋 About Me
 
-I am a Computer Science graduate from National University of Computer & Emerging Sciences (NUCES) FAST, Islamabad. Currently, I'm working as an AI Engineer at CureMD Lahore, where I contribute to healthcare innovations through Machine Learning and Artificial Intelligence.
+I am a Computer Science graduate from National University of Computer & Emerging Sciences (NUCES) FAST, Islamabad. Currently, I'm working as a Software Engineer in the Machine Learning department of a leading Canadian Ad-Tech company, I specialized in research , development and deployment of LLM Agents in order to build chatbots capable of catering queries related to a specified knowledge base both structured as well as unstructured .
 
 ## 📫 What I'm Up To
 
 My interests lie in the captivating domains of Data Science, AI, and ML, with a specific focus on Computer Vision and Natural Language Processing (NLP). I'm in a constant state of learning, delving deep into the intricacies of deep learning and neural networks, including concepts like CNN and RCNN. I'm currently enhancing my knowledge through courses from deeplearning.ai.
 
-## 👀 Professional Endeavors
+## 👀 Expertise
 
-At CureMD, I'm not just an AI Engineer; I'm also an enthusiastic advocate of innovation. My journey includes hands-on experience with NLP and Computer Vision projects, adding real-world depth to my academic prowess. I'm thrilled about the potential of AI to revolutionize healthcare, and I'm determined to be a part of this transformation.
+1. Building applications around LLMs [LLM Agents, RAG and all that stuff] using LangChain
+2. Python based applications
+3. Web Applications using Streamlit ,and Gradio .
 
 ## 🌱 Collaboration and Growth
 
