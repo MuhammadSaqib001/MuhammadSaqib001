@@ -1,6 +1,6 @@
 # Muhammad Saqib [Machine Learning Engineer]
 
-Hi there, I'm Muhammad Saqib! A passionate ML Engineer with a focus on Generative AI, LLMs, and Deep learning (especially Computer Vision) .
+Hi there, I'm Muhammad Saqib! A passionate Software Engineer with a focus on transformative realms of Artificial Intelligence and Machine Learning like Generative AI, LLMs, and Deep learning (especially Computer Vision).
 
 ## 👋 About Me
 
